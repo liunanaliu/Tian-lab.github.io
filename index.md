@@ -13,5 +13,5 @@ We are part of the [Department of Neuroscience](http://bts.ucsf.edu/), the [Facu
 Research in the lab is focused on discovering cellular and molecular mechanisms of human diseases, especially neurodegenerative and neurodevelopmental disease, using innovative genomics and cell biology technologies.  We are interested in developing new CRISPR-based functional genomics tools to facilitate our biomedical research.
 {: .welcomefont}
 
-We are located in the Medicine Faculty of SUSTech.
+We are located in the Medical Faculty of SUSTech.
 {: .welcomefont}
