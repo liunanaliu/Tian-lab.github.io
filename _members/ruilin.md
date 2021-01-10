@@ -11,7 +11,7 @@ email: tianrl (at) sustech.edu.cn
 scholar: 
 website:
 SUSTech: Ruilin Tian
-orcid: 
+orcid: http://orcid.org/0000-0001-7680-6682
 description: "Ruilin was an undergraduate at Peking University, and he worked in the Ouyang laboratory.
 
 He started in 2015 to do his Ph.D. in [University of California, San Francisco, CA, USA](https://kampmannlab.ucsf.edu/ruilin-tian-phd).
