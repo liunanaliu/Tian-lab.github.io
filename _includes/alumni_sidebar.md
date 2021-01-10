@@ -10,7 +10,7 @@ Subsequently: {{member.subsequent}} <br>
 <em>{{member.pronouns}}</em> <br>
 {% endif %}
 {% if member.email %}
-{% unless member.email contains "ucsf.edu" %}
+{% unless member.email contains "sustech.edu" %}
 <em>{{member.email}}</em> <br>
 {% endunless %}
 {% endif %}
