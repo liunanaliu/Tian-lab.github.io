@@ -1,17 +1,17 @@
 ---
-title: Fraser Lab 
+title: Tian Lab 
 layout: home
 group: home
 ---
 
-# Welcome to the Fraser Lab!
+# Welcome to the Tian Lab!
 {: .display-4}
 <br>
-We are part of the [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu/), the [Macromolecular Structure Group](http://msg.ucsf.edu/), and the [California Institute of Quantitative Biosciences (QB3)](http://qb3.org/). 
+We are part of the [Department of Neuroscience](http://bts.ucsf.edu/), the [Faculty of Medicine](http://msg.ucsf.edu/), and the [Southern University of Science and Technology](http://qb3.org/). 
 {: .welcomefont}
 
-Research in the lab is focused on discovering the fundamental principles of macromolecular structure and dynamics.  We are interested in defining conformational states that are essential for function and understanding how conformational transitions couple to biological mechanisms.
+Research in the lab is focused on discovering cellular and molecular mechanisms of human diseases, especially neurodegenerative and neurodevelopmental disease, using innovative genomics and cell biology technologies.  We are interested in developing new CRISPR-based functional genomics tools to facilitate our biomedical research.
 {: .welcomefont}
 
-We are located in Genentech Hall at the Mission Bay Campus of UCSF.
+We are located in the Medicine Faculty of SUSTech.
 {: .welcomefont}
