@@ -1,7 +1,7 @@
 name: "Tian Lab"
 description: "This is the official web page for the Ruilin Tian Lab at SUSTech."
 
-url: "http://Tianlab.com"
+url: "http://tianlab.com"
 
 paginate: 5
 plugins: [jekyll-paginate]
