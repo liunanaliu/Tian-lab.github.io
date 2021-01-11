@@ -1,4 +1,4 @@
-# tianlab.github.io
+# tian-lab.github.io
 ====================
 
 Technologies this website uses:  
